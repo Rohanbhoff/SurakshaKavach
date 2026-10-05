@@ -43,11 +43,10 @@ Linemen working on high-voltage electrical distribution infrastructure face life
 
 ## 📥 Download App Releases
 
-You can download the compiled Android APKs directly from the [Releases](https://github.com/Rohanbhoff/SurakshaKavach/releases) section:
+All official builds are hosted on [GitHub Releases](https://github.com/Rohanbhoff/SurakshaKavach/releases):
 
-- 📱 [**Download SurakshaKavach v3.0.0 (Recommended)**](https://github.com/Rohanbhoff/SurakshaKavach/releases/download/v3.0.0/Suraksha_Kavach_v3.apk)
-- 📦 [Download v2.0.0 Stable Build](https://github.com/Rohanbhoff/SurakshaKavach/releases/download/v3.0.0/Suraksha_Kavach_v2.apk)
-- 📦 [Download v1.0.0 Prototype Build](https://github.com/Rohanbhoff/SurakshaKavach/releases/download/v3.0.0/Suraksha_Kavach_v1.apk)
+- 📱 [**Download SurakshaKavach v3.0.0 (Recommended Production Build)**](https://github.com/Rohanbhoff/SurakshaKavach/releases/download/v3.0.0/Suraksha_Kavach_v3.apk)
+- 📦 [**Browse All Releases & Previous Builds (v2.0.0-beta, v1.0.0-alpha)**](https://github.com/Rohanbhoff/SurakshaKavach/releases)
 
 ---
 
